@@ -17,7 +17,7 @@ from src.utils import save_object
 @dataclass
 # The @dataclass decorator in Python is used to automatically generate special methods for classes, such as __init__(), __repr__(), __eq__(), and others, based on the class attributes. This can significantly reduce boilerplate code when creating classes that are primarily used to store data.
 class DataTransformationConfig:
-    preprocessor_obj_file_path=os.path.join('artifact','preprocessor_obj.pkl')
+    preprocessor_obj_file_path=os.path.join('artifacts','preprocessor_obj.pkl')
 
 class DataTransformation:
     def __init__(self):
