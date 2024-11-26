@@ -4,15 +4,16 @@ This project implements an end-to-end machine learning pipeline to predict stude
 
 ## Installation
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/Nikkhil003/student-performance-predictor.git
-Navigate to the project directory:
+
+2.Navigate to the project directory:
 
 cd student-performance-predictor
-Install required dependencies:
+3.Install required dependencies:
 
 pip install -r requirements.txt
-Run the application:
+4.Run the application:
 
 streamlit run app.py
