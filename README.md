@@ -18,4 +18,4 @@ This project implements an end-to-end machine learning pipeline to predict stude
 
 4. Run the application:
 
-        streamlit run app.py
+        python app.py
