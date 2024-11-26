@@ -2,7 +2,7 @@
 
 This project implements an end-to-end machine learning pipeline to predict student performance based on a range of factors such as study time, past grades, and personal background. The system is designed to help educators and institutions identify at-risk students and tailor interventions to improve learning outcomes.
 
-Installation
+## Installation
 
 Clone the repository:
 
